@@ -93,6 +93,10 @@ GM_addStyle(`
 .hd-hide-image-albums .image-albums:not(.video-albums) {
   display: none;
 }
+#main h1 {
+  padding-right: 30px;
+  padding-left: 30px;
+}
 .hd-hide-image-albums #main h1 {
   text-decoration: line-through;
 }
