@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Erome Image/Video Filter
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2.0
 // @description  Hide or show images and Videos
+// @downloadURL  https://github.com/heinrichdede/erome-image-video-filter/raw/master/erome-image-video-filter.userscript.js
 // @author       heinrichdede
 // @match        https://www.erome.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
