@@ -77,7 +77,8 @@
 // +-----+
 GM_addStyle(`
 
-.hd-hide-images div[sty].img {
+.hd-hide-images div[sty].img,
+.hd-hide-images .media-group .img {
   display: none;
 }
 .hd-hide-images .user-info .album-images {
